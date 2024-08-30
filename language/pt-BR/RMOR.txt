@@ -1,0 +1,67 @@
+{
+	strings:
+	{
+	"MORIYA_RMOR_BODY_NAME" : "R-MOR",
+	"MORIYA_RMOR_BODY_SUBTITLE" : "Robô Foguete",
+	"MORIYA_RMOR_BODY_DESCRIPTION" : "R-MOR é uma máquina devastadora, feita exclusivamente para encontros críticos: com armadura extrema, lâminas retráteis e lançadores de mísseis. Um gigante imparável. <style=cSub>\r\n\r\n< ! > ERRADICAR é lento, mas poderoso. É muito eficaz em eliminar inimigos fracos.\r\n\r\n< ! > CANHÃO_DE_AGRUPAMENTO leva tempo para alcançar sua força total, mas é poderoso quando o faz, lançando os inimigos para longe se não os matar imediatamente.\r\n\r\n< ! > FORTIFICAR auxilia a baixa regeneração de saúde de R-MOR.\r\n\r\n< ! > Cancelar FORTIFICAR permite você impulsionar-se para cima, permitindo alcançar inimigos voadores.\r\n\r\n< ! > Use MÍSSEIS para causar dano pesado, ao custo da sua velocidade de ataque.\r\n\r\n",
+	"MORIYA_RMOR_BODY_LORE" :  "<style=cMono>\r\n//--AUTOTRANCRIÇÃO DO DEPARTAMENTO DE BASE DA UES [CONFIDENCIAL]--//</style>\r\n\r\n<i>*ativa <color=#327FFF>Tônico de Espinélia</color>*</i>\n\nTá jogando sem a grande idiotice do artefato de <color=#6955A6>Comando</color>?\n\nEu não consigo pensar ou entender nada mais idiota do que jogar sem esse artefato. Honestamente, pensa comigo. Você está atirando, correndo, pulando por 60 minutos para pegar unicamente uma droga de uma <color=#77FF16>Pólipo Calamar</color>. Todo seu trabalho árduo - desviando dos lasers do <style=cIsHealth>Golem de Pedra</style>, se frustando com seis mil <style=cIsHealth>Espíritos Inferiores</color> aparecendo em cima de você, ativando todos os <color=#E5C962>Templos da Montanha</color> para um simples fim: seu inventário lotado de <color=#FFFFFF>Estandartes de Guerra</color> e <color=#FFFFFF>Presas de Monstro</color> pagos com seu dinheiro.\n\nEm uma partida perfeita? Ótimo. Um monte de lixo que não adiciona em nada na sua partida acaba aparecendo em todo <color=#E5C962>Baú</color> que você compra. Eles tem o benefício do seu dinheiro suado, vindo de uma chacina de <style=cIsHealth>Lemurianos</style>.\n\nComo um homem que joga esse jogo, você está <style=cIsHealth>LITERALMENTE</style> dedicando duas horas da sua vida abrindo caixas e rezando para não vir nenhuma outra <color=#77FF16>Bugiganga Temporal</color>. É o ultimato ápice do idiota submisso. Use o cérebro.\r\n<style=cMono>\r\nTranscrições concluídas.\r\n</style>\r\n \r\n\r\n",
+	"MORIYA_RMOR_BODY_OUTRO_FLAVOR" : "... e assim ele se foi, revelando sinais de decadência.",
+	"MORIYA_RMOR_BODY_OUTRO_FAILURE" : "... e assim ele desapareceu, incapaz de cumprir seu único dever.",
+	
+	"MORIYA_RMOR_BODY_PASSIVE_NAME" : "ATAQUE_DE_ENXAME",
+	"MORIYA_RMOR_BODY_PASSIVE_DESC" : "<style=cIsDamage>Aumenta a velocidade de ataque</style> em <style=cIsDamage>5%</style> para cada <style=cIsUtility>drone</style> ativo.",\
+
+	"MORIYA_RMOR_BODY_PRIMARY_NAME" : "ERADICAR",
+	"MORIYA_RMOR_BODY_PRIMARY_DESC" : "Atire um míssil que explode no impacto, causando <style=cIsDamage>390% de dano</style>. Enquanto <style=cIsHealing>FORTIFICAR</style> estiver ativo, o míssil voa mais rápido e <style=cIsUtilitye>Atordoam ao acertar</style>",
+	"MORIYA_RMOR_BODY_PRIMARY_GUN_NAME" : "ASSAULT",
+	"MORIYA_RMOR_BODY_PRIMARY_GUN_DESC" : "Dispare rapidamente duas metralhadoras,causando <style=cIsDamage>90% de dano</style>.",
+	"MORIYA_RMOR_BODY_PRIMARY_BLADE_NAME" : "ESQUARTEJAR",
+	"MORIYA_RMOR_BODY_PRIMARY_BLADE_DESC" : "Apunhale todos os combatentes, causando <style=cIsDamage>220% de dano</style>. Enquanto <style=cIsHealing>FORTIFICAR</style> estiver ativo, causa <style=cIsDamage>sangramento</style>.",
+	
+	"MORIYA_RMOR_BODY_ALTSECONDARY_NAME" : "RECONSTRUÇÃO_FORÇADA",
+	"MORIYA_RMOR_BODY_ALTSECONDARY_DESC" : "<style=cIsDamage>Sangramento</style>. Realize uma investida e aplique uma grande força contra todos os inimigos, causando <style=cIsDamage>600%-1.500% de dano</style>.",
+	"MORIYA_RMOR_BODY_ALTSECONDARY_SCEPTER_NAME" : "RECONTRUÇÃO_ANTIÉTICA",
+	"MORIYA_RMOR_BODY_ALTSECONDARY_SCEPTER_DESC" : "<style=cIsDamage>Sangramento</style>.  Realize uma investida e aplique <style=cIsHealth>OPRESSÃO</style> contra todos os inimigos, causando <style=cIsDamage>900%-2.250% de dano</style>.",
+
+	"MORIYA_RMOR_BODY_SECONDARY_NAME" : "CANHÃO_DE_AGRUPAMENTO",
+	"MORIYA_RMOR_BODY_SECONDARY_DESC" : "Carregue rapidamente e lance um míssil poderoso, causando <style=cIsDamage>800%-2.400% de dano</style>.",
+	"MORIYA_RMOR_BODY_SECONDARY_SCEPTER_NAME" : "CANHÃO_DO_OBLÍVIO",
+	"MORIYA_RMOR_BODY_SECONDARY_SCEPTER_DESC" : "Carregue rapidamente e lance um míssil poderoso, causando <style=cIsDamage>800%-3.200% de dano</style>.",
+	
+	
+	"KEYWORD_MORIYAHANDOVERCLOCKED_BOOST" : "<style=cKeywordName>Impulso</style><style=cSub>A habilidade pode ser cancelada antes para impulsionar ao ar.</style>",
+	"KEYWORD_MORIYARMOR_BLEEDING" : "<style=cKeywordName>Sangramento</style><style=cSub>A habilidade causa sangramento ao atingir.</style>",
+	"KEYWORD_MORIYARMOR_Weaken" : "<style=cKeywordName>Enfraquecer</style><style=cSub>Reduz a armadur em 30%, reduz o dano e a velocidade de movimento em 40%.</style>",
+	
+	"MORIYA_RMOR_BODY_UTILITY_CANCEL_NAME" : "CANCELAR",
+	"MORIYA_RMOR_BODY_UTILITY_CANCEL_DESC" : "<style=cIsUtility>Impulsiona-se ao ar</style>.",
+	
+	"MORIYA_RMOR_BODY_UTILITY_NAME" : "ALTA_FREQUÊNCIA",
+	"MORIYA_RMOR_BODY_UTILITY_DESC" : "<style=cIsUtility>Impulso</style>. Aumente a <style=cIsUtility>velocidade de movimento</style> e a <style=cIsDamage>velocidade de ataque</style> em <style=cIsDamage>40%</style>. Acertar inimigos <style=cIsUtility>aumenta a duração</style>.",
+	
+	"MORIYA_RMOR_BODY_UTILITY_RMOR_NAME" : "FORTIFICAR",
+	"MORIYA_RMOR_BODY_UTILITY_RMOR_DESC" : "<style=cIsUtility>Impulso</style>. Ganhe <style=cIsUtility>100 de armadura</style> e gera constantemente <style=cIsUtility>12 de Barreira por segundo</style>. Acertar inimigos <style=cIsUtility>aumenta a duração</style>.",
+	
+	"MORIYA_RMOR_BODY_UTILITY_NEMESIS_NAME" : "FOCO",
+	"MORIYA_RMOR_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>Impulso</style>. Ganhe <style=cIsDamage>+50% de dano</style> e <style=cIsUtility>50 de armadura</style>, mas perde <style=cIsHealth>-30% de velocidade de movimento</style>. Acertar inimigos <style=cIsUtility>aumenta a duração</style>.",
+	
+	"MORIYA_RMOR_BODY_SPECIAL_NAME" : "MÍSSIL",
+	"MORIYA_RMOR_BODY_SPECIAL_DESC" : "Dispara mísseis, causando <style=cIsDamage>250% de dano</style> e <style=cIsDamage>Enfraquece</style> ao atingir. Abates e acertos corpo-a-corpo <style=cIsUtility>reduzem o tempo de recarga</style>.",
+	
+	"ACHIEVEMENT_MORIYARMORSURVIVORUNLOCK_NAME" : "Casca-Grossa",
+	"ACHIEVEMENT_MORIYARMORSURVIVORUNLOCK_DESCRIPTION" : "Atinja 1.000 de Armadura em uma única jogatina.",
+	
+	"ACHIEVEMENT_MORIYARMOROVERCLOCKUNLOCK_NAME" : "R-MOR: Octano",
+	"ACHIEVEMENT_MORIYARMOROVERCLOCKUNLOCK_DESCRIPTION" : "Como R-MOR, mantenha FORTIFICAR ativo por 45 segundos.",
+	
+	"ACHIEVEMENT_MORIYARMORSKEWERUNLOCK_NAME" : "R-MOR: Invencível",
+	"ACHIEVEMENT_MORIYARMORSKEWERUNLOCK_DESCRIPTION" : "Como R-MOR, conclua uma fase sem que sua vida fique abaixo de 60%.",
+
+	"ACHIEVEMENT_MORIYARMORSLASHUNLOCK_NAME" : "R-MOR: Controle de Multidão",
+	"ACHIEVEMENT_MORIYARMORSLASHUNLOCK_DESCRIPTION" : "Como R-MOR, performe um abate múltiplo de 20 inimigos.",
+	
+	"MORIYA_RMOR_BODY_MASTERY_SKIN_NAME" : "2-HOU",
+	"ACHIEVEMENT_MORIYARMORCLEARGAMEMONSOON_NAME" : "R-MOR: Domínio",
+	"ACHIEVEMENT_MORIYARMORCLEARGAMEMONSOON_DESCRIPTION" : "Como R-MOR, vença o jogo ou aniquile em Monção.",
+	}
+}
